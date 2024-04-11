@@ -1,0 +1,12 @@
+[package]
+name = "replacehcstrings"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+unidecode = "0.3.0"
+regex = "1.7.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

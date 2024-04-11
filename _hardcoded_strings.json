@@ -1,0 +1,62 @@
+[
+  {
+    "file": "first_try.html",
+    "error": {
+      "id": "(error)",
+      "code": "W001",
+      "reason": "Hardcoded <p> tag",
+      "evidence": "/(How satisfied are you with our product\\?)/",
+      "line": 4,
+      "character": 23,
+      "scope": "    <p class=\"fw-bold\">How satisfied are you with our product?</p>"
+    }
+  },
+  {
+    "file": "first_try.html",
+    "error": {
+      "id": "(error)",
+      "code": "W001",
+      "reason": "Hardcoded <label> tag",
+      "evidence": "/(Option 1)/",
+      "line": 7,
+      "character": 59,
+      "scope": "      <label class=\"form-check-label\" for=\"radioExample1\"> Option 1 </label>"
+    }
+  },
+  {
+    "file": "first_try.html",
+    "error": {
+      "id": "(error)",
+      "code": "W001",
+      "reason": "Hardcoded <label> tag",
+      "evidence": "/(Option 2)/",
+      "line": 11,
+      "character": 59,
+      "scope": "      <label class=\"form-check-label\" for=\"radioExample2\"> Option 2 </label>"
+    }
+  },
+  {
+    "file": "first_try.html",
+    "error": {
+      "id": "(error)",
+      "code": "W001",
+      "reason": "Hardcoded <label> tag",
+      "evidence": "/(Option 3)/",
+      "line": 15,
+      "character": 59,
+      "scope": "      <label class=\"form-check-label\" for=\"radioExample3\"> Option 3 </label>"
+    }
+  },
+  {
+    "file": "first_try.html",
+    "error": {
+      "id": "(error)",
+      "code": "W001",
+      "reason": "Hardcoded <button> tag",
+      "evidence": "/(Submit)/",
+      "line": 19,
+      "character": 50,
+      "scope": "    <button type=\"button\" class=\"btn btn-primary\">Submit</button>"
+    }
+  }
+]
